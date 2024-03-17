@@ -1,9 +1,9 @@
-# Aula prática 2
+# Lab #2
 
-## Objectivo
+## Objectives
 
-1. Resolução de exercícios em Spark Streaming, modo não estruturado.
+1. Solving de exercises using unstructured Spark Streaming.
 
-## Materiais:
+## Materials:
 
-[Lab2](https://github.com/smduarte/ps2023/blob/main/lab2/ps2023_lab2.ipynb)
+[Lab2](https://github.com/smduarte/ps2024/blob/main/lab2/ps2024_lab2.ipynb)
