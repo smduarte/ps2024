@@ -9,4 +9,4 @@
 
 [Lab3](https://github.com/smduarte/ps2024/blob/main/lab3/ps2024_lab3.ipynb)
 
-[Lab2-So]ution(https://github.com/smduarte/ps2024/blob/main/lab3/ps2024_lab2_sol.ipynb)
+[Lab2-Solution](https://github.com/smduarte/ps2024/blob/main/lab3/ps2024_lab2_sol.ipynb)
