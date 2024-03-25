@@ -8,6 +8,6 @@
  
 ## Materiais:
 
-[Lab4.1 - Kafka Streaming](https://colab.research.google.com/github/smduarte/ps2024/blob/main/lab4/ps2024_lab4.ipynb)
+[Lab4 - Kafka Streaming](https://colab.research.google.com/github/smduarte/ps2024/blob/main/lab4/ps2024_lab4.ipynb)
 
 [Lab3 - Solution](https://colab.research.google.com/github/smduarte/ps2024/blob/main/lab4/ps2024_lab3_sol.ipynb)
